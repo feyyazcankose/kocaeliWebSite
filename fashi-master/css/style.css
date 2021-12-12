@@ -4323,3 +4323,11 @@ ol {
 	text-align: right;
 	margin-right: 5%;
 }
+.hakkimizda{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.hakkimizda h4 {
+	text-align: center;
+	color: #2773BE;
+}
