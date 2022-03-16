@@ -1,3 +1,3 @@
 # Kocaeli Üniversitesi Sayfasının Kodlanması
-> Kullandığımız bir template ile bölüm tarafından verilen web uygulaması
+> Ücretsiz bir hazır template ile üniveristemizin sitesinin benzerine dönüştürmek. Bölüm tarafından verilen web uygulaması
 *HTML CSS JS* ile kodlanmıştır.
